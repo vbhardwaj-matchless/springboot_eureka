@@ -1,4 +1,11 @@
 # springboot_eureka
+
+git clone https://github.com/vbhardwaj-matchless/springboot_eureka.git 
+
+unzip the folder
+
+cd sprinboot_eureka
+
 cd ebay-eureka-server
 
 mvn clean install -DskipTest
