@@ -10,6 +10,7 @@ public class EbayEurekaServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EbayEurekaServerApplication.class, args);
+		
 	}
 
 }
